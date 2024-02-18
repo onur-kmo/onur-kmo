@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onur-kmo (ALGOS [:)] )
-- 👀 I’m interested in cyber security and human psychology 
-- 🌱 I’m currently learning python and security engineers and penetration test in port swigger
+- 👀 I turn the good ideas I think into app
+- 🌱 I’m currently learning python and security engineers and penetration test in burp Suit
 
 
 
